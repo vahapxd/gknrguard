@@ -1,0 +1,18 @@
+{
+  "OwnerID":"759849727189057567", 
+  "Prefix":"+", 
+  "Token":"OTc3ODk4MTgwODgyNjI0NTIy.GVVKxz.wfplGKFcZdNfcsH7mbSa34tZfZ1N9tL0IVkkjA", 
+  "Status": "Adelicia 💚 Rencia",
+  "guildID":"976140150448979999", 
+  "logChannelID":"977937009140203580", 
+  "channelProtection":true,
+  "roleProtection":true,
+  "botProtection":true,
+  "banProtection":true,
+  "kickProtection":true,
+  "serverProtection":true,
+  "rightClickProtection":true, 
+  "whitelist":["889363583249563658", "759849727189057567", "889363583249563658"], 
+  "boosterRole":"976531133997125643", 
+  "jailRole":"976500722055131196" 
+}
